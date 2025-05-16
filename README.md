@@ -107,3 +107,31 @@ LEDの起点を調整し、指定した位置からのオフセットでLEDを�
 ### `set_second_led()`
 
 秒針を設定します。分針と重なった場合は色を変更して重なりを示します。
+
+
+## 参考文献
+
+- Device Plus, Device Plus 編集部, 「Arduino＋LEDテープでRGBフルカラーの自宅イルミネーションを始めよう！」,  
+  [https://deviceplus.jp/arduino/how-to-add-rgb-led-strip-to-home-lighting/](https://deviceplus.jp/arduino/how-to-add-rgb-led-strip-to-home-lighting/),  
+  2021年2月12日公開, 2024年2月3日参考
+
+- 電子工作やガジェットについて物を作る者, 「【Arduino】millis()関数」,  
+  [https://novicengineering.com/millis/](https://novicengineering.com/millis/),  
+  公開日不明, 2024年2月29日参考
+
+- もよいめも（はてなブログ）, 「【Arduino】RTC(DS3231)を使ってみた 〜2022年令和最新版〜」,  
+  [https://moyoi-memo.hatenablog.com/entry/2022/12/02/151628](https://moyoi-memo.hatenablog.com/entry/2022/12/02/151628),  
+  2022年12月2日公開, 2024年3月4日参考
+
+- アイデアノート101010.FUN, Toshihiko Arai, 「【Arduino】リアルタイムクロック（DS3231）で現在時刻の表示」,  
+  [https://101010.fun/iot/arduino-real-time-clock.html](https://101010.fun/iot/arduino-real-time-clock.html),  
+  2022年1月22日公開, 2024年3月4日参考
+
+- carterさんの工作室, maxcarter, 「Arduino UNO R4で、RTCをNTPから取得した時刻に設定する」,  
+  [https://workshop.aaa-plaza.net/archives/2148](https://workshop.aaa-plaza.net/archives/2148),  
+  2024年10月21日更新, 2025年3月28日参考
+
+- Qiita, @nanase(七瀬), 「ArduinoでJJYを受信して日時を取得する」,  
+  [https://qiita.com/nanase/items/0c9780bd50773de4c950](https://qiita.com/nanase/items/0c9780bd50773de4c950),  
+  2024年1月26日更新, 2025年3月29日参考
+
